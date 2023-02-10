@@ -20,6 +20,18 @@
 * Model evaluation
 ![image](https://user-images.githubusercontent.com/91950433/218220302-fce9d905-db27-42cb-8907-1b62403fc03a.png)
 
+* Decision Tree
+![image](https://user-images.githubusercontent.com/91950433/218220598-634d490e-5817-4d58-9a7a-c831aad8048e.png)
+
+* K-Nearest Neighbor
+![image](https://user-images.githubusercontent.com/91950433/218220649-d18adee5-7e24-4b24-b9f3-61fccc9614cf.png)
+
+* Support Vector Machine
+![image](https://user-images.githubusercontent.com/91950433/218220688-4083e813-463c-4a6c-9f6f-2e0b71274bf4.png)
+
+* Neural Network
+![image](https://user-images.githubusercontent.com/91950433/218220714-313f9c63-2446-4b2d-bf1d-ebf47095469b.png)
+
 * Comparing 4 graph above we find the best model with optimum accuracy and efficiency which is using K-Nearest Neighbors with 16 features selected. 
 ![image](https://user-images.githubusercontent.com/91950433/218220210-b2b8467f-6fc7-4817-87ff-075d2541c793.png)
 
