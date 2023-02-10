@@ -7,7 +7,11 @@
     - K-Nearest Neighbors
     - Support Vector Machines
     - Neural Network
+    
 * Feature importance refers to techniques that assign a score to input features based on how useful they are at predicting a target variable.
+![image](https://user-images.githubusercontent.com/91950433/218220422-a7564968-c7d5-420a-9d51-768ff11fbb6d.png)
+
+![image](https://user-images.githubusercontent.com/91950433/218220466-929969f4-b635-4b37-b74f-48d6b085383e.png)
 
 * First, we choose 3 features namely claim_amount, months_since_last_claim, and annual_income. We choose these three features because they have the top 3 importance score, which means the most useful at predicting a target variable.
 
